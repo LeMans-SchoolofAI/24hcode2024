@@ -9,7 +9,7 @@ Pour l'utiliser :
 Cette démo technique :
 - est beaucoup moins aboutie graphiquement que ce que les participants ont réalisés durant les 24h
 - ne permet pas de faire jouer un humain mais uniquement des IA entres elles
-- ne gère que les 2 rôles indispensables que sont les koups-garous et les villageois
+- ne gère que les 2 rôles indispensables que sont les loups-garous et les villageois
 
 Dépendances
 - llama_cpp : https://github.com/ggerganov/llama.cpp
