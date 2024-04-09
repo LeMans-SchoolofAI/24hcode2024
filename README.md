@@ -36,3 +36,8 @@ Retrouvez dans le répertoire "aide participants" les deux solutions d'étapes q
 
 Retrouvez dans le répertoire "concept" notre implémentation de test pour valider la faisabilité du sujet et le peaufiner
 
+## Solutions des participants
+
+- Dog Wif Hat : https://gitlab.com/24-du-code-2024
+
+
