@@ -10,7 +10,7 @@ Etudiants :
 4. Asdia (17 points)
 
 Professionnels :
-1. Dog Wif Hat (28 points)
+1. Dog Wif Hat (28 points - https://gitlab.com/24-du-code-2024)
 2. (ex-aequo) Sesam Vitale / Tester c'est douter (24 points)
 3. Appli fait pas le moine (19 points)
 4. Vamos Reflexamos (abandon)
