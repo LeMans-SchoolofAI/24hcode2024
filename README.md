@@ -4,7 +4,7 @@ Sujet et résultat des 24h du code 2024
 ## Résultats des 24h du code 2024 pour le sujet
 
 Etudiants :
-1. Tokyo Drift (31 points)
+1. Tokyo Drift (31 points - https://github.com/jordanbmrd/24h-du-code-2024)
 2. (ex-aequo) The Farmers / K2 (28 points)
 3. (ex-aequo) LehriSa / Les Petits Algos (23 points)
 4. Asdia (17 points)
@@ -39,5 +39,5 @@ Retrouvez dans le répertoire "concept" notre implémentation de test pour valid
 ## Solutions des participants
 
 - Dog Wif Hat : https://gitlab.com/24-du-code-2024
-
+- Tokyo Drift : https://github.com/jordanbmrd/24h-du-code-2024
 
