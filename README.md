@@ -41,3 +41,7 @@ Retrouvez dans le répertoire "concept" notre implémentation de test pour valid
 - Dog Wif Hat : https://gitlab.com/24-du-code-2024
 - Tokyo Drift : https://github.com/jordanbmrd/24h-du-code-2024
 
+## Solutions des participants
+
+- Looki-fr : https://github.com/Looki-fr/24h-du-code-SchoolofAI
+
