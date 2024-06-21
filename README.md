@@ -45,3 +45,6 @@ Retrouvez dans le répertoire "concept" notre implémentation de test pour valid
 
 - Looki-fr : https://github.com/Looki-fr/24h-du-code-SchoolofAI
 
+## Jeu d'enquete au Shift Hackathon Gen AI 2024
+
+Implémenter des personnages non joueur améliorés dans un jeu vidéo avec des LLM et RAG : Deeplore (https://github.com/deeplore-ai/deeplore)
