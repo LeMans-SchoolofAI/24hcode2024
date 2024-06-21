@@ -5,7 +5,7 @@ Sujet et résultat des 24h du code 2024
 
 Etudiants :
 1. Tokyo Drift (31 points - https://github.com/jordanbmrd/24h-du-code-2024)
-2. (ex-aequo) The Farmers / K2 (28 points)
+2. (ex-aequo) The Farmers / K2 (28 points - https://github.com/kassoumsanogo1/AI_LOUP_GAROU_24H_CODE_HACKATON)
 3. (ex-aequo) LehriSa / Les Petits Algos (23 points)
 4. Asdia (17 points)
 
